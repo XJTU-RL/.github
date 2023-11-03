@@ -9,7 +9,7 @@
 
 加入方式：
   
-  邮箱:xiaodong_zheng@qq.com
+  邮箱: xiaodong_zheng@qq.com
   
 <!--
 
