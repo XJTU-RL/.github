@@ -5,12 +5,6 @@
 
 用人工智能的力量为中国电力系统赋能智慧的大脑！
 
-欢迎申请加入！
-
-加入方式：
-  
-  邮箱: xiaodong_zheng@qq.com
-  
 <!--
 
 **Here are some ideas to get you started:**
